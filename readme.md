@@ -2,7 +2,7 @@
 
 ## Usage
 
-## Install and start host app packages
+## Install packages and start host app
 
 ```
 cd host-app
@@ -11,7 +11,7 @@ npm start
 
 ```
 
-## Install and start mfe app
+## Install packages and start mfe app
 
 ```
 cd react-mfe
